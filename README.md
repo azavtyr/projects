@@ -22,7 +22,9 @@ This project isn't finished yet and I constantly make changes to it. Next goals 
 - Router TP-Link Archer C6 v2 (OpenWRT)
   - Ports: `4`
   - Speeds: `1000Mbps`
- 
+
+![OpenWRT Screenshot](assets/openwrt-overview.png)
+
 ### Tech Stack:
 
 - Proxmox
